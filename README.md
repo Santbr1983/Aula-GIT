@@ -15,7 +15,7 @@
 - git pull
 - git clone
 
-## **GITHUB
+## **GITHUB**
 
 Criar reposiório e adicionar arquivos. Sincrinizar repositório.
 
